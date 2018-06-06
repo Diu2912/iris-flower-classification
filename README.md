@@ -7,7 +7,7 @@ Using:
 * scikit-learn
 
 # Dataset description
-From the (UCI Machine Learning Repository)[https://archive.ics.uci.edu/ml/datasets/Iris].
+From the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris).
 
 Features:
 * sepal length (cm)
